@@ -35,3 +35,7 @@ then type `create-react app [app name]`. Note that the braces [ ] are not includ
  While we're at it let's open up the directory in our text editor (I recommend VSCode)
  
  `code .`
+
+To make coding in React easier I recommend install these packages in VSCode
+1. Simple React Snippets by Burke Holland
+2. Prettier - Code formatter by Esben Petersen
