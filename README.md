@@ -24,4 +24,14 @@ Verify it's installed
 Start by going into your Desktop directory
 `cd Desktop`
 
-then type `create-react app [app name]`. Note that the braces [] are not included.
+then type `create-react app [app name]`. Note that the braces [ ] are not included.
+
+4. Now that we've created the app folder simply cd to it and start
+
+`cd app name`
+
+`npm start`
+ 
+ While we're at it let's open up the directory in our text editor (I recommend VSCode)
+ 
+ `code .`
