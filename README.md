@@ -5,7 +5,7 @@ React Workshop for Tech Knights on March 21, 2019 by Spectre (dlam96)
 
 To get your API key from [Open Weather Map](https://home.openweathermap.org/), please register an account with them.
 
-To make coding in React easier I recommend install these packages in VSCode
+To make coding in React easier I highly recommend installing these packages in VSCode
 
 1. Simple React Snippets by Burke Holland
 
