@@ -1,7 +1,7 @@
 # Introduction
 React Workshop for Tech Knights on March 21, 2019 by Spectre (dlam96)
 
-## Notes:
+### Notes:
 
 To get your API key from [Open Weather Map](https://home.openweathermap.org/), please register an account with them.
 
@@ -11,7 +11,7 @@ To make coding in React easier I highly recommend installing these packages in V
 
 2. Prettier - Code formatter by Esben Petersen
 
-# Steps:
+# Setup:
 
 We will be using the [create-react-app](https://github.com/facebook/create-react-app) from the guys over at Facebook
 
