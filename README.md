@@ -55,7 +55,11 @@ then type `create-react app [app name]`. Note that the braces [ ] are not includ
 
 5. We'll be using Bootstrap later during the workshop 
 
-`npm install bootstrap@latest --save`
+`npm install --save bootstrap`
+
+or 
+
+`yarn add bootstrap`
 
 # Extra Bits and Credits:
 
