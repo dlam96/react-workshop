@@ -49,6 +49,7 @@ If not then simply install it by running
    `code .`
 
 5. We'll be using Bootstrap later during the workshop 
+
     `npm install bootstrap@latest --save`
 
 # Extra Bits:
