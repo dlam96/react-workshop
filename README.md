@@ -10,6 +10,8 @@ To make coding in React easier I highly recommend installing these packages in V
 1. Simple React Snippets by Burke Holland
 
 2. Prettier - Code formatter by Esben Petersen
+    2a. If you are using VSCode, enter the editor settings using [ctrl + ,], and type save in the search bar
+    2b. Make sure the Editor:Format on Save tickbox is checked. This will prettify your code when you save.
 
 # Setup:
 
@@ -52,7 +54,8 @@ If not then simply install it by running
 
     `npm install bootstrap@latest --save`
 
-# Extra Bits:
+# Extra Bits and Credits:
 
 1. More about [Async Await](https://www.valentinog.com/blog/how-async-await-in-react/)
+2. Hamza Mirza [Youtube](https://www.youtube.com/watch?v=204C9yNeOYI)
 
