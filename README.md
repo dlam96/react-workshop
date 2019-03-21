@@ -69,4 +69,5 @@ or
 
 1. More about [Async Await](https://www.valentinog.com/blog/how-async-await-in-react/)
 2. Hamza Mirza - [Youtube](https://www.youtube.com/watch?v=204C9yNeOYI)
+3. Read more about [React](https://www.w3schools.com/whatis/whatis_react.asp)
 
