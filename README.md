@@ -19,7 +19,7 @@ To make coding in React easier I highly recommend installing these packages in V
 
 We will be using the [create-react-app](https://github.com/facebook/create-react-app) from the guys over at Facebook
 
-If you are using *Windows*, download the executable from [NodeJS](https://nodejs.org/en/) and then open up the NodeJS terminal
+[If you are using *Windows*, download the executable from [NodeJS](https://nodejs.org/en/) and then open up the NodeJS terminal and skip step 1.]
 
 1. First check to see if you have NPM installed
 
@@ -66,5 +66,5 @@ or
 # Extra Bits and Credits:
 
 1. More about [Async Await](https://www.valentinog.com/blog/how-async-await-in-react/)
-2. Hamza Mirza [Youtube](https://www.youtube.com/watch?v=204C9yNeOYI)
+2. Hamza Mirza - [Youtube](https://www.youtube.com/watch?v=204C9yNeOYI)
 
