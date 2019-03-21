@@ -1,6 +1,8 @@
 # Introduction
 React Workshop for Tech Knights on March 21, 2019 by Spectre (dlam96)
 
+Link to [slides](https://docs.google.com/presentation/d/1XP2AXH_0nhHemkj7K3UXIFsotj6R8AIS_g1bPCINxvQ/edit?usp=sharing)
+
 ### Notes:
 
 To get your API key from [Open Weather Map](https://home.openweathermap.org/), please register an account with them.
